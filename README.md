@@ -7,6 +7,10 @@ based on STM32F429 and with display of FFT
    
    
 ![frame](https://github.com/xdr940/oscilloscope/raw/master/pics/frame_data.png)
-![210KHz test](https://github.com/xdr940/oscilloscope/raw/master/pics/210KHz_testing.jpg)
-![](https://github.com/xdr940/oscilloscope/raw/master/pics/XY_display.jpg)
 ![](https://github.com/xdr940/oscilloscope/raw/master/pics/overview.jpg)
+![210KHz test](https://github.com/xdr940/oscilloscope/raw/master/pics/210KHz_testing.jpg)
+
+也能够实现XY显示，但相应代码我没放上去
+
+![](https://github.com/xdr940/oscilloscope/raw/master/pics/XY_display.jpg)
+
